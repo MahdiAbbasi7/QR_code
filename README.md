@@ -3,9 +3,9 @@ In this project i write a program that scans QR codes and Barcodes from an image
 Most of the python programmers are familiar with OpenCV and Numpy libraries.OpenCV is an open-source computer vision and machine learning library. 
 It is a useful library for image processing. We are using this library in our project for processing each frame from a video captured by a device. 
 We are using Numpy here because pyzbar works with OpenCV / numpy ndarrays. Whereas, pyzbar library is used to read barcodes and QR codes from a given image.
-# For OpenCV 
+## For OpenCV 
 ### pip install opencv-python
-# For pyzbar
+## For pyzbar
 ### pip install pyzbar
-# For Numpy
+## For Numpy
 ### pip install numpy
