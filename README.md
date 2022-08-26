@@ -9,3 +9,6 @@ We are using Numpy here because pyzbar works with OpenCV / numpy ndarrays. Where
 ### pip install pyzbar
 ## For Numpy
 ### pip install numpy
+
+
+# Best_Wishes
